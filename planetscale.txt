@@ -1,0 +1,6 @@
+Planetscale API SaaS
+
+username = jyvnlt2vgec4o25gtuff
+password = pscale_pw_xyQfh2MF9IMAzNMMfhPE8NXy6wUWbsYL5TONjeJyTxT
+
+
