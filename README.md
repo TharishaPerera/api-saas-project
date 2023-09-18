@@ -18,7 +18,7 @@ Before you begin, ensure you have the following software installed on your syste
 To get started, you need to clone this repository to your local machine. Open your terminal and run the following command:
 
 ```bash
-[git clone https://github.com/your-username/your-repository.git](https://github.com/TharishaPerera/api-saas-project.git)
+https://github.com/TharishaPerera/api-saas-project.git
 ```
 Then go inside the cloned directory
  
